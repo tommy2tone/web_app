@@ -1,0 +1,10 @@
+.pytest-cache/
+.idea/
+__pycache__/
+env/
+*.egg-info
+*.pyc
+email_config.py
+secret.py
+*.sqlite
+build/
