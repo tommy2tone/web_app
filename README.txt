@@ -1,4 +1,4 @@
-budget_website
+web_app
 ==============
 
 Getting Started
