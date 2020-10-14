@@ -1,4 +1,4 @@
-web_app
+web_app developed with Python, Pyramid, and jQuery to allow for the creation of users and uploading files.
 ==============
 
 Getting Started
